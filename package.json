@@ -1,0 +1,23 @@
+{
+  "name": "my-first-mean-app",
+  "version": "1.0.0",
+  "description": "MEAN-stack application for my website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "angular2-jwt": "^0.2.3",
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "Gard Engen",
+  "license": "ISC"
+}
